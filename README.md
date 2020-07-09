@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+I am Daniel Barima a self taught software developer
